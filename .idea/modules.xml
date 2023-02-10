@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/School-service-JEE/absence-service/Absence-service.iml" filepath="$PROJECT_DIR$/School-service-JEE/absence-service/Absence-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/School-service-JEE.iml" filepath="$PROJECT_DIR$/.idea/School-service-JEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/School-service-JEE/apigw/apigw.iml" filepath="$PROJECT_DIR$/School-service-JEE/apigw/apigw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/School-service-JEE/config-server/config-server.iml" filepath="$PROJECT_DIR$/School-service-JEE/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/School-service-JEE/course-service/course-service.iml" filepath="$PROJECT_DIR$/School-service-JEE/course-service/course-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/School-service-JEE/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/School-service-JEE/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/School-service-JEE/professors-service/professors-service.iml" filepath="$PROJECT_DIR$/School-service-JEE/professors-service/professors-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/School-service-JEE/schoolservices.iml" filepath="$PROJECT_DIR$/School-service-JEE/schoolservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/School-service-JEE/student-service/student-service.iml" filepath="$PROJECT_DIR$/School-service-JEE/student-service/student-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-service" />
+        <module name="course-service" />
+        <module name="config-server" />
+        <module name="apigw" />
+        <module name="Absence-service" />
+        <module name="student-service" />
+        <module name="professors-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Absence-service" target="17" />
+      <module name="apigw" target="17" />
+      <module name="config-server" target="17" />
+      <module name="course-service" target="17" />
+      <module name="eureka-service" target="17" />
+      <module name="professors-service" target="17" />
+      <module name="schoolservices" target="1.7" />
+      <module name="student-service" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

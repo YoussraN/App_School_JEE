@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/School-service-JEE/absence-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/absence-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/apigw/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/apigw/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/course-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/course-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/eureka-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/eureka-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/professors-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/professors-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/student-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/School-service-JEE/student-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
